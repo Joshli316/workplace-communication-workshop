@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://workplace-communication-workshop.pages.dev/sitemap.xml

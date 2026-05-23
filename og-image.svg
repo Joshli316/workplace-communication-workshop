@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="职场英语沟通 · Communicating at Work — Chinatown Service Center bilingual workshop">
+  <defs>
+    <radialGradient id="bgGrad" cx="60%" cy="40%" r="80%">
+      <stop offset="0%" stop-color="#0369a1"/>
+      <stop offset="55%" stop-color="#0c4a6e"/>
+      <stop offset="100%" stop-color="#082f49"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bgGrad)"/>
+  <!-- speech bubble -->
+  <g transform="translate(80,150)" fill="none" stroke="#facc15" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 80 a40 40 0 0 1 40 -40 h160 a40 40 0 0 1 40 40 v100 a40 40 0 0 1 -40 40 h-120 l-50 40 v-40 h-30 a40 40 0 0 1 -40 -40 z" fill="#facc15" fill-opacity="0.08"/>
+    <line x1="50" y1="100" x2="190" y2="100"/>
+    <line x1="50" y1="140" x2="160" y2="140"/>
+    <line x1="50" y1="180" x2="180" y2="180"/>
+  </g>
+  <!-- text block -->
+  <text x="380" y="240" fill="#ffffff" font-family="Noto Sans SC, PingFang SC, sans-serif" font-size="84" font-weight="700">职场英语沟通</text>
+  <text x="380" y="320" fill="#facc15" font-family="system-ui, sans-serif" font-size="56" font-weight="600">Communicating at Work</text>
+  <text x="380" y="400" fill="#e0f2fe" font-family="system-ui, sans-serif" font-size="32" font-weight="400">和上司说话 · 写邮件 · 请假 · 求助</text>
+  <text x="380" y="448" fill="#bae6fd" font-family="system-ui, sans-serif" font-size="28" font-weight="400">Supervisor talk · Email · Time off · Asking for help</text>
+  <!-- footer -->
+  <rect x="0" y="555" width="1200" height="75" fill="#082f49"/>
+  <text x="80" y="603" fill="#facc15" font-family="system-ui, sans-serif" font-size="26" font-weight="600">华埠服务中心 · Chinatown Service Center</text>
+  <text x="1120" y="603" fill="#bae6fd" font-family="system-ui, sans-serif" font-size="24" text-anchor="end">cscla.org</text>
+</svg>

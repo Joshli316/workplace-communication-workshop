@@ -1127,3 +1127,29 @@ a:focus-visible {
     animation-duration: 0.01ms !important;
   }
 }
+
+/* ─── Inline SVG Visuals (viz-*) ─────────────────────────── */
+.viz {
+  width: 100%;
+  max-width: 760px;
+  margin: 10px auto 18px;
+  display: block;
+}
+.viz svg { display: block; width: 100%; height: auto; }
+.viz-steps { margin-bottom: 6px; }
+.viz-timeline { margin-bottom: 6px; }
+.viz-tree { margin-bottom: 10px; }
+
+/* ─── Culture / Vocab callout variants ───────────────────── */
+.callout-culture {
+  border-left-color: var(--primary) !important;
+  background: var(--primary-light, #e0f2fe) !important;
+}
+.callout-culture .callout-zh { color: var(--primary-dark) !important; }
+.callout-culture strong { color: var(--primary-dark); }
+.callout-vocab {
+  border-left-color: #2563eb !important;
+  background: #eff6ff !important;
+}
+.callout-vocab .callout-zh { color: #1e40af !important; }
+.callout-vocab strong { color: #1e40af; }

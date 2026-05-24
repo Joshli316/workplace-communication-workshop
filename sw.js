@@ -1,4 +1,4 @@
-const CACHE = 'workplace-communication-workshop-v2';
+const CACHE = 'workplace-communication-workshop-v3';
 const ASSETS = [
   '/',
   '/index.html',
@@ -11,6 +11,7 @@ const ASSETS = [
   '/resources.js',
   '/404.js',
   '/og-image.svg',
+  '/apple-touch-icon.png',
   '/sitemap.xml',
 ];
 
